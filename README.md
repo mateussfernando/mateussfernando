@@ -6,6 +6,12 @@
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mf081" alt ="mf081" /></a> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
+  <a href = "mailto:mateusfss368@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mateus-fernando-4a1323300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
+  
+
 <p align="left">
 </p>
 
