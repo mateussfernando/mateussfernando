@@ -31,7 +31,7 @@
 
 <h3 align="center">Estatísticas do GitHub:</h3>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mf081&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mf081&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mf081&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mf081&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <hr></hr>
