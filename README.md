@@ -1,3 +1,4 @@
+<hr></hr>
 <h1 align="center">Olá 👋, meu nome é Mateus</h1>
 <h3 align="center">Sou Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac no Embarque Digital.</h3>
 
@@ -33,3 +34,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mf081&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mf081&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+<hr></hr>
