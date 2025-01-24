@@ -6,7 +6,7 @@
 <h3 align="center">Sou Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac no Embarque Digital.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mf081&label=Profile%20views&color=0e75b6&style=flat" alt="mf081" />
+  <img src="https://komarev.com/ghpvc/?username=mateussfernando&label=Profile%20views&color=0e75b6&style=flat" alt="mateussfernando" />
 </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
@@ -34,7 +34,8 @@
 
 <h3 align="center">Estatísticas do GitHub:</h3>
 <p align="center">
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mf081&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mf081&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussfernando&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussfernando&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
 </p>
 <hr></hr>
