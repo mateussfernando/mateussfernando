@@ -2,7 +2,7 @@
    <a href="https://github.com/mf081"> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7C7E7&height=120&section=header"/>
 
-<h1 align="center">Olá 👋, meu nome é Mateus</h1>
+<h1 align="center">🔥 Olá! Sou o Mateus, entusiasta do desenvolvimento web e sempre em busca de novos desafios.</h1>
 <h3 align="center">Sou Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac no Embarque Digital.</h3>
 
 <p align="center">
@@ -39,3 +39,10 @@
 
 </p>
 <hr></hr>
+    <h3 align="center">🚀 Dê uma olhada no meu portfólio e descubra minha jornada como desenvolvedor!
+</h3>
+    <p align="center">
+        <a href="https://mateus-fernando.netlify.app" target="_blank">
+            <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+        </a>
+    </p>
