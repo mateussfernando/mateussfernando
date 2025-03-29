@@ -5,12 +5,6 @@
 <h1 align="center">🔥 Olá! Sou o Mateus, entusiasta do desenvolvimento web e sempre em busca de novos desafios.</h1>
 <h3 align="center">Sou estudante de análise e desenvolvimento de sistemas pela faculdade senac no embarque digital.</h3>
 
- <h3 align="center">🚀 Dê uma olhada no meu portfólio e descubra minha jornada como desenvolvedor! </h3>
-    <p align="center">
-        <a href="https://mateus-fernando.netlify.app" target="_blank">
-            <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-        </a>
-    </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mateussfernando&label=Profile%20views&color=0e75b6&style=flat" alt="mateussfernando" />
