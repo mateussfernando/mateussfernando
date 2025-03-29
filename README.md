@@ -2,7 +2,7 @@
    <a href="https://github.com/mateussfernando"> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7C7E7&height=120&section=header"/>
 
-<h1 align="center">🔥 Olá! Sou o Mateus, entusiasta do desenvolvimento web e sempre em busca de novos desafios.</h1>
+<h3 align="center">🔥 Olá! Sou o Mateus, entusiasta do desenvolvimento web e sempre em busca de novos desafios.</h3>
 <h3 align="center">Sou estudante de análise e desenvolvimento de sistemas pela faculdade senac no embarque digital.</h3>
 
 
