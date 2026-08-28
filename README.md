@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/mateussfernando">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Mateus%20Fernando&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%7C%20Estudante%20de%20ADS&descSize=14&descAlignY=58"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Mateus%20Fernando&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%7C%20Estudante%20de%20ADS&descSize=14&descAlignY=58"/>
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A7C7E7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Mateus;Desenvolvedor+web;Sempre+em+busca+de+novos+desafios;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-</div>
+</div> -->
 
 ## Sobre mim
 
