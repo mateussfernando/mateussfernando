@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mateussfernando">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Mateus%20Fernando&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%7C%20Estudante%20de%20ADS&descSize=14&descAlignY=58"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Mateus%20Fernando&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web&descSize=14&descAlignY=58"/>
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 <img align="right" width="35%" src="https://raw.githubusercontent.com/abrudz/Codepage/master/codepage.gif" alt="coding"/>
 
 - Atualmente trabalho como **Desenvolvedor Web**
-- Estou no **quinto período**, quase finalizando a graduação em **Análise e Desenvolvimento de Sistemas** na faculdade **Senac**, pelo programa **Embarque Digital**
+- Sou **formado** em **Análise e Desenvolvimento de Sistemas** pela faculdade **Senac**, pelo programa **Embarque Digital**
 - Apaixonado por **desenvolvimento web** e em constante aprendizado
 - Sempre em busca de novos desafios e projetos para evoluir
 - Fale comigo sobre tecnologia, programação e ideias de projetos
@@ -47,8 +47,8 @@
 ## Estatisticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateussfernando&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=A7C7E7&icon_color=A7C7E7" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussfernando&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A7C7E7" alt="Top Languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateussfernando&theme=github_dark" alt="GitHub Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateussfernando&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
