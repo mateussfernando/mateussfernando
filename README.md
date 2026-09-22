@@ -55,6 +55,16 @@
   <img src="https://streak-stats.demolab.com?user=mateussfernando&theme=react&hide_border=true&background=0D1117&ring=A7C7E7&fire=A7C7E7&currStreakLabel=A7C7E7" alt="GitHub Streak" />
 </div>
 
+## Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateussfernando/mateussfernando/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateussfernando/mateussfernando/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/mateussfernando/mateussfernando/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## Vamos nos conectar
 
 <div align="center">
